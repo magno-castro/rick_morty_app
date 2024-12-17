@@ -1,6 +1,6 @@
 import 'package:internet_connection_checker_plus/internet_connection_checker_plus.dart';
 
-sealed class INetworkInfo {
+abstract class INetworkInfo {
   Future<bool> get isConnected;
 }
 
