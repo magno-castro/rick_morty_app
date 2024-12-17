@@ -74,5 +74,3 @@ The backend services are built using AWS Lambda functions. Below are the main fu
 ### Conclusion
 
 The Rick & Morty App is a fun and engaging project that showcases the capabilities of Flutter and AWS. By following the setup instructions and utilizing the provided AWS services, you can successfully run and deploy the application.
-
-**Please note:** Ensure the Notion page containing this README is set to public access for easy sharing and collaboration.
